@@ -1,11 +1,6 @@
-# Placeholder for your code
-def main():
-  # get name
-  name = input("What is your hero's name? ")
+def danduroom(name):
 
-  # initialize points
   points = 0
-  points = points + dp
   
   print("You are entering the fun house!")
   print("welcome to the Ajays room of the funhouse,",name+"!")
@@ -26,3 +21,5 @@ def main():
       print("you get salmonella and lose 10 pts.")
       pts = -10
   print("Congrats you now get to move onto the next students room.")
+
+  return dp
